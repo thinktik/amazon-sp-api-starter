@@ -6,7 +6,10 @@ Selling Partner APIs
 **Amazon 官方资料**
 - [亚马逊销售伙伴 API (SP-API)](https://developer.amazonservices.com/zh-cn)
   - [Selling Partner API文档](https://developer-docs.amazon.com/sp-api)
+  - [Amazon MWS](https://docs.developer.amazonservices.com/en_US/dev_guide/index.html)
 - [亚马逊广告](https://advertising.amazon.com/zh-cn)
+
+❌ Amazon Marketplace Web Service (MWS) will no longer be available after March 31, 2024. All MWS developers must migrate to Selling Partner API (SP-API) to avoid service disruptions
 
 **🛑第三方SDK，请自行甄别**
 - Golang : [Amazon's Selling Partner API (SP-API) Golang SDK](https://github.com/amzapi/selling-partner-api-sdk)
